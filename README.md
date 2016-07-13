@@ -1,3 +1,5 @@
+Forking for snapshot. Original and maintained code can be found at: https://github.com/trustedsec/social-engineer-toolkit/
+
 #The Social-Engineer Toolkit (SET)
 Copyright 2016 The Social-Engineer Toolkit (SET)
 
